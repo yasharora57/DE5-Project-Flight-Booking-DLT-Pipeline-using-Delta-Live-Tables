@@ -2,8 +2,7 @@
 
 ## 📑 Contents:
 - Code
-- Data Model & Folder Structure
-- Project Architecture
+- Data Files
 
 ---
 
